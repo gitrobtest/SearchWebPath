@@ -30,7 +30,7 @@ searchweburl.exe -p "./" -u "http://www.xxx.com/a/b/c/d?id=1"
 * -h --help　　　　帮助信息
 
 
-### 详情参考博客：[SearchWebPath](http://thief.one)
+### 详情参考博客：[SearchWebPath](http://thief.one/2017/03/10/SearchWebPath/)
 <hr>
 By nMask
 
